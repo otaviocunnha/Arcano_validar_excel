@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icon/flecha.png</file>
+    <file>icon/icons8-exportar-30.png</file>
+    <file>icon/icons8-franquia-64.png</file>
+    <file>icon/png-clipart-people-crossing-the-finish-line-cartoon-characters-success-removebg-preview.png</file>
+    <file>icon/icons8-lista-de-verificação-64.png</file>
+    <file>icon/icons8-atenção-50 (1).png</file>
+    <file>icon/adicionar.png</file>
+    <file>icon/nome.png</file>
+    <file>icon/icon_menu.png</file>
+    <file>icon/logo_completa_2.png</file>
+    <file>icon/cadastro.png</file>
+    <file>icon/logo_completa.png</file>
+    <file>icon/adicionar.png</file>
+    <file>icon/logo agrocompetence 3.png</file>
+    <file>icon/filtrar.png</file>
+    <file>icon/logo.png</file>
+    <file>icon/checklist.png</file>
+    <file>icon/lua-e-estrelas.png</file>
+    <file>icon/game.png</file>
+    <file>icon/home.png</file>
+    <file>icon/menu.png</file>
+    <file>icon/meta.png</file>
+  </qresource>
+</RCC>

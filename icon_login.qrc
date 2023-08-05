@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icon_login">
+    <file>icon/nome.png</file>
+    <file>icon/Blue_and_Purple_Astronaut_E-Sports_Team_Logo____5_-removebg-preview.png</file>
+  </qresource>
+</RCC>
